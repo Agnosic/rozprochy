@@ -1,0 +1,48 @@
+[
+    {
+        "city": "Warsaw",
+        "weather": [
+            {
+                "district": "Grodzisk",
+                "temperature": 30.0,
+                "wind": {
+                    "speed": 30.1,
+                    "deg": 10.2
+                },
+                "description": 2
+            },
+            {
+                "district": "Praga",
+                "temperature": 31.2,
+                "wind": {
+                    "speed": 28.1,
+                    "deg": 11.2
+                },
+                "description": 1
+            }
+        ]
+    },
+    {
+        "city": "Cracow",
+        "weather": [
+            {
+                "district": "Kazimierz",
+                "temperature": 11.2,
+                "wind": {
+                    "speed": 34.1,
+                    "deg": 90.2
+                },
+                "description": 3
+            },
+            {
+                "district": "Nowa Huta",
+                "temperature": 14.2,
+                "wind": {
+                    "speed": 22.1,
+                    "deg": 31.2
+                },
+                "description": 4
+            }
+        ]
+    }
+]
